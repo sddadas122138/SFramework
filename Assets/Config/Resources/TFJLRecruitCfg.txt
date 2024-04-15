@@ -1,0 +1,2 @@
+A_INT_id	A_ARR_weight	A_ARR_debris_count	A_STR_sss	A_STR_aaa	A_STR_sadasd	A_STR_tsss
+1	[53,30,15,2]	[10,1,1,1]	10	10	10	1

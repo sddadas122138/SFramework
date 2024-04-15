@@ -1,0 +1,4 @@
+A_INT_id	A_STR_magic_path
+0	Assets/Loop/Res/Prefab/Magic/Magic.prefab
+1	Assets/Loop/Res/Prefab/Magic/Magic2.prefab
+2	Assets/Loop/Res/Prefab/Magic/Magic1.prefab

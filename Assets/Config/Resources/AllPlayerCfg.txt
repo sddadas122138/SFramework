@@ -1,0 +1,4 @@
+A_INT_id	A_STR_magic_path	A_INT_color
+0	Assets/Loop/Res/Prefab/Player/Player.prefab	3
+1	Assets/Loop/Res/Prefab/Player/Lizi.prefab	3
+2	Assets/Loop/Res/Prefab/Player/Guqi.prefab	3
